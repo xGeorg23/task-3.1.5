@@ -3,7 +3,6 @@ package com.example.task315;
 import com.example.task315.config.CookieConfig;
 import com.example.task315.model.User;
 import com.example.task315.service.WebService;
-import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
