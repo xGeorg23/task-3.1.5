@@ -2,8 +2,6 @@ package com.example.task315.service;
 
 
 import com.example.task315.model.User;
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.core.ParameterizedTypeReference;
 import org.springframework.http.*;
 import org.springframework.stereotype.Component;
 import org.springframework.web.client.RestTemplate;
